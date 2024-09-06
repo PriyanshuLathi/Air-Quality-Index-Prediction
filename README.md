@@ -8,6 +8,8 @@ Air quality significantly impacts public health and the environment, making it c
 
 This project focuses on predicting air quality indices using a variety of machine learning algorithms. The models are trained on a dataset containing air quality measurements and pollutant data, allowing the system to classify air quality into different categories or predict numerical values of air quality indices.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/fca6e52c-edb8-463d-ba90-cdd20258910e" alt="Air Quality Index Model" width = 750 /> </p>
+
 ## Problem Statement
 
 Air pollution is a growing concern worldwide, with severe implications for health and climate. Traditional methods of measuring and predicting air quality indices are often costly and time-consuming. Therefore, there is a need for automated, data-driven solutions that can accurately predict air quality indices based on available environmental data.
@@ -34,9 +36,13 @@ The dataset used in this project comprises various environmental parameters and 
 - **Pressure**: Atmospheric pressure, which can influence air quality levels.
 - **Season**: Seasonal variations impacting pollution levels.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/5b45d0a4-7072-4660-9f97-a2e1cf672e98" alt="Air Quality Index Model" width = 750 /> </p>
+
 ## Data Preprocessing and Feature Extraction
 
 The dataset undergoes preprocessing, including cleaning, handling missing values, and feature extraction, to ensure the models receive the most relevant data. The features extracted are crucial for distinguishing between different air quality levels and predicting numerical indices.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/09a34295-96b0-474b-8e66-872e69fba8c6" alt="Air Quality Index Model" width = 750 /> </p>
 
 ## Model Training and Evaluation
 
